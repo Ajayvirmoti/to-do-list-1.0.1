@@ -11,7 +11,7 @@ document.querySelector('#push').onclick = function(){
                     ${document.querySelector('#newtask input').value}
                 </span>
                 <button class="delete">
-                    <i class="fa fa-trash-o" style="font-size:36px; color:red"> </i>
+                    <i class="fa fa-trash-o" style=" color:red"> </i>
 
                 </button>
             </div>
